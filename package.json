@@ -1,0 +1,19 @@
+{
+  "name": "alga-node-ops",
+  "version": "1.0.0",
+  "description": "Node functions to create ops scripts in different environments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4lg4/node-ops.git"
+  },
+  "author": "Alga (akgleal@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4lg4/node-ops/issues"
+  },
+  "homepage": "https://github.com/4lg4/node-ops#readme"
+}
